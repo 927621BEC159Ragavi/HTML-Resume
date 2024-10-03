@@ -1,0 +1,140 @@
+<html lang="en"></html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
+    <link href="./style.css" rel="stylesheet"/>
+</head>
+<body>
+    <div class="mainContainer">
+        <div class="myDetailsContainer">
+            <div class="flexOne flexCenter">
+                <img alt="profile" class="profilePic" src="./assets/pf.png"/>
+            </div>
+            <div class="flexTwo">
+                <h1 class="highlight">RAGAVI SASIKUMAR</h1>
+                <p>To secure a challenging position in a reputed organization where I
+                    can utilize my technical and leadership skills, gain hands-on
+                    experience, and contribute to innovative projects, with the aim of
+                    growing professionally and achieving long-term success within the
+                    company.</p>
+
+                <p><span class="highlight">Mobile: </span>+91-9342751177 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    &nbsp;&nbsp;&nbsp; <span class="highlight">Email:</span>jayanthragavi@gmail.com</p>
+            </div>
+        </div>
+        <div class="experienceContainer">
+            <h2>Education</h2>
+            <ul>
+                <li>BACHELORS OF ELECTRONICS AND COMMUNICATION ENGINEERING<br>
+                M.Kumarasamy College of Engineering<br>
+                    8.17(till 6th semester)<br>
+                    2021-2025</li>
+                    <li>HIGHER SECONDARY CERTIFICATION<br>
+                        Trinity International school<br>
+                        72%<br>
+                        2020-2021
+                    </li>
+                    <li>SECONDARY SCHOOOL LEAVING CERTIFICATION<br>
+                        National Public school<br>
+                        70%<br>
+                        2019-2020</li>
+               
+            </ul>
+        </div>
+
+        <div class="divider"></div>
+        
+        <div class="descriptionContainer">
+            <div class="flexOne leftContainer">
+                <div>
+                    <h2>Skills</h2>
+                    <ul>
+                        <li>HTML4 / HTML5</li>
+                        <li>JAVA</li>
+                        <li>C</li>
+                    </ul>
+                </div>
+                <div>
+                    <h2>SOFT SKILL</h2>
+                    <ul>
+                        <li>Leadership</li>
+                        <li>Time Management</li>
+                            <li>Teamwork
+                        </li>
+
+                    </ul>
+                </div>
+                <div>
+                    <h2>Hobbies</h2>
+                    <ul>
+                        <li>Mural Art</li>
+                        <li>Drawing</li>
+
+                    </ul>
+                </div>
+                <div>
+                    <h2>Area of Interest</h2>
+                    <ul>
+                        <li>DBMS</li>
+                        <li>Computer Networks</li>
+
+                    </ul>
+                </div>
+                <div>
+                    <h2>Language Known</h2>
+                    <ul>
+                        <li>Tamil</li>
+                        <li>English</li>
+
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="flexTwo">
+                <h2>CO-CURRICULAM ACTIVIES</h2>
+                <div>
+                    <ul>
+                        <li>Active member of the EMINENCE Association, organized by our institution.
+                            This association focuses on promoting student engagement, leadership, and
+                            community service through various events and initiatives.</li><br>
+                            <li>Participated in a workshop on ‘Teamwork’ during the National Level
+                            Symposium at VSB College of Engineering in June 2022.
+                            </li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h2>CERTIFICATION</h2>
+                    <ul>
+                        <li>Successfully completed the STEP Certification by The Hindu Group in July
+                            2023. It assessed English proficiency in reading, writing, listening, and
+                            speaking.</li>
+                            <li>Completed the 'Introduction to IoT' course from NPTEL in October 2023. The
+                            course covered IoT basics, including devices, sensors, and practical uses.</li>
+                           <li> Completed the B1 level of the Cambridge BEC exam in 2022. The exam was
+                            conducted at the University</li>
+                        
+                    </ul>
+                </div>
+
+                <div>
+                    <h2>PROJECTS</h2>
+                    <ul>
+                       <H3><li>Title: Turbidity Sensor Using Arduino UNO</li></H3>
+                        <li>Description: This tool is made using LDR as sensor and led as a light source to
+                            measure the water turbidity value and Arduino UNO for processing
+                            </li>
+                       <H3><li>Title: LED Distance Indicator
+                    </li></H3>
+                        <li>It is handy system for non-contact measurement of distance.The device
+                            calculates the distance with suitable accuracy.</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
